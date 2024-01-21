@@ -1,2 +1,2 @@
 # AdventOfCode2022
-hi
+hi 2
